@@ -112,13 +112,14 @@ Pipeline & Optimization: LODs, texture atlasing, FBX/GLTF export, basic automati
   </a>
   &nbsp;
   <a href="https://www.zcool.com.cn/laladatte">
-    <img src="https://img.shields.io/badge/ZCOOL-laladatte-0096FF?style=for-the-badge&logo=zcool" alt="ZCOOL" />
+    <img src="https://img.shields.io/badge/ZCOOL-laladatte-0096FF?style=for-the-badge" alt="ZCOOL" />
   </a>
   &nbsp;
   <a href="https://www.douyin.com/user/laladatte">
-    <img src="https://img.shields.io/badge/Douyin-laladatte-000000?style=for-the-badge&logo=douyin" alt="Douyin" />
+    <img src="https://img.shields.io/badge/Douyin-laladatte-FF0050?style=for-the-badge" alt="Douyin" />
   </a>
 </p>
+
 
 ---
 
