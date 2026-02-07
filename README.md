@@ -64,10 +64,11 @@ and also here is my profile https://pin.it/7qsHOeI1Z
 ## Skills
 
 **3D / Creative**
-- Modeling (hard-surface & organic)
-- Character sculpting and anatomy
-- UVs, PBR texturing & lookdev
-- Lighting, composition, rendering
+Modeling & Sculpting: high/low poly, hard-surface, organic, sculpting & detailing.
+UVs & Texturing: UV unwrapping, baking (normal/AO/curvature), PBR workflow, texture optimization.
+Materials & Shading: procedural & PBR material authoring, shader setup, lookdev.
+Lighting & Rendering: lighting setups, composition, render passes/AOVs, final beauty renders.
+Pipeline & Optimization: LODs, texture atlasing, FBX/GLTF export, basic automation.
 
 **Frontend & Scripting**
 - HTML • CSS • JavaScript
