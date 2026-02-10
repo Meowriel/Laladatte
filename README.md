@@ -16,7 +16,7 @@ Be happy to work with you. ✨
 
 <p align="center">
   <img src="resume.png" alt="My resume card" width="1000">
-  <img src="resume_dark.png" alt="My resume card" width="1000">
+
 </p>
 
 
