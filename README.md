@@ -37,6 +37,19 @@
 ## Portfolio
 link to mine portfolio in Pinterest https://pin.it/7qsHOeI1Z
 and also here is my profile https://pin.it/7qsHOeI1Z
+
+You  can explore ALL my works on this platforms 
+  <a href="https://www.artstation.com/laladatte">
+    <img src="https://img.shields.io/badge/ArtStation-laladatte-101010?style=for-the-badge&logo=artstation" alt="ArtStation" />
+  </a>
+    <a href="https://www.zcool.com.cn/laladatte">
+    <img src="https://img.shields.io/badge/ZCOOL-laladatte-0096FF?style=for-the-badge&logo=zcool" alt="ZCOOL" />
+  </a>
+  &nbsp;
+  <a href="https://www.douyin.com/user/laladatte">
+    <img src="https://img.shields.io/badge/Douyin-laladatte-000000?style=for-the-badge&logo=tiktok" alt="Douyin" />
+  </a>
+  
 > Click any image to open the full-size piece.
 
 <p align="center">
