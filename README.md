@@ -14,9 +14,8 @@
 Greetings! You can find my resume on this page.  
 Be happy to work with you. ✨  
 
-**#NadezhdaIvashina #laladatte**
 <p align="center">
-  <img src="card.png" alt="My resume card" width="720">
+  <img src="card.png" alt="My resume card" width="440">
 </p>
 
 
